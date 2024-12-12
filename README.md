@@ -79,6 +79,7 @@ The analysis of power consumption data provided valuable insights into how elect
 Power consumption is influenced by complex interrelationships among environmental conditions, human activity patterns, and emission dynamics. To fully understand these connections, further statistical analysis is needed to evaluate the strength and nature of these relationships. For instance, correlation analysis and regression modeling can be employed to assess how variables like temperature, humidity, and wind speed impact electricity demand across zones.
 
 ### Suggested Metrics and Analyses to Include:
+
 1. Correlation Analysis: Examine relationships between power consumption and environmental variables (e.g., temperature, wind speed) to identify significant predictors of demand.
 2.Regression Models: Build predictive models (e.g., linear regression, multiple regression) to quantify the impact of key variables on power consumption.
 3. Time-Series Analysis: Analyze temporal trends in electricity usage to forecast future demand and detect seasonal variations.
